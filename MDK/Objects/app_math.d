@@ -1,0 +1,10 @@
+.\objects\app_math.o: ..\App\app_math.c
+.\objects\app_math.o: ..\App\app_math.h
+.\objects\app_math.o: ..\DSP_Lib\Include\arm_math.h
+.\objects\app_math.o: C:\Users\75119_308vaba\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm4.h
+.\objects\app_math.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\app_math.o: C:\Users\75119_308vaba\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h
+.\objects\app_math.o: C:\Users\75119_308vaba\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h
+.\objects\app_math.o: C:\Users\75119_308vaba\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h
+.\objects\app_math.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\app_math.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
